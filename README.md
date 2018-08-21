@@ -1,6 +1,6 @@
-# jablonec.pirati.cz
+# zeleznybrod.pirati.cz
 
-Web jabloneckých pirátů ... 
+Web železnobrodských pirátů ... 
 Spravuje Marek Förster, marek.forster@pirati.cz
 
 ---
