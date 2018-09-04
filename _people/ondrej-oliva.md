@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 4  
 description:  sklář, student zlatnictví
-#img: people/ondrej-oliva.jpg # zakomentuj radek dokud není fotka
+img: people/ondrej-oliva.jpg # zakomentuj radek dokud není fotka
 mail:
   - ondrej.oliva@pirati.cz
 profiles:

@@ -9,7 +9,7 @@ category:
   - neclenove
 ordneclenove: 6  
 description:  podnikatel ve stavebnictví
-#img: people/ondrej-kovar.jpg # zakomentuj radek dokud není fotka
+img: people/ondrej-kovar.jpg # zakomentuj radek dokud není fotka
 mail:
   - ondrej.kovar@pirati.cz
 profiles:

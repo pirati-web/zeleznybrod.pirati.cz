@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 2  
 description:  student gymnázia
-#img: people/cyril-vacek.jpg # zakomentuj radek dokud není fotka
+img: people/cyril-vacek.jpg # zakomentuj radek dokud není fotka
 mail:
   - cyril.vacek@pirati.cz
 profiles:

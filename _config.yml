@@ -6,7 +6,7 @@
 #
 
 title: Piráti Železný Brod
-email: zeleznybord@pirati.cz 
+email: zeleznybrod@pirati.cz 
 description: >-
   Piráti - Železný Brod, místní sdružení
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -16,7 +16,7 @@ administrator:
   email: marek.forster@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Piráti Železný Brod, místní sdružení
+  name: Piráti Železný Brod
   shortName: Piráti Železný Brod
   contactUid: jan.tempel
   email: jan.tempel@pirati.cz
@@ -33,9 +33,9 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+  title: Krajský kalendář
+  id: vd0bm8kuaqdhmcjlnp6qj026fc@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=vd0bm8kuaqdhmcjlnp6qj026fc%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
   loadSDK: true
@@ -45,7 +45,7 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: PiratiLik
+  profile: PiratiLiK
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -86,6 +86,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-environment-variables
+  - jekyll-redirect-from  
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -146,7 +148,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-6.1.2/_sass 
+    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-6.7.0/_sass 
     - assets/css
     - assets/fonts
     - assets/video

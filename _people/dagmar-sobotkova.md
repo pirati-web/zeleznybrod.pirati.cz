@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 3  
 description:  studentka politologie
-#img: people/dagmar-sobotkova.jpg # zakomentuj radek dokud není fotka
+img: people/dagmar-sobotkova.jpg # zakomentuj radek dokud není fotka
 mail:
   - dagmar.sobotkova@pirati.cz
 profiles:

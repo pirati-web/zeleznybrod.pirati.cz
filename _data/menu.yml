@@ -1,4 +1,7 @@
 top:
+  - link: "Piráti - Liberecký kraj"
+    url:  "https://liberecky.pirati.cz"
+    icon: "fa fa-home"
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
     icon: "fa fa-home"
@@ -10,9 +13,9 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
+  #- link: /aktuality/
+  #  name: Aktuality
+  #  match: aktuality
   - link: /lide/
     name: O nás
     match: lide
@@ -29,6 +32,8 @@ bottom:
     links:
       - link: /kontakt/
         name: Kontakty
+      - link: https://nalodeni.pirati.cz
+        name: Staň se členem
   - class: small-12 medium-4
     title: Makáme
     links:

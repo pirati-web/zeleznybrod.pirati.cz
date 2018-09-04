@@ -8,7 +8,7 @@ category:
   - kontaktni_osoba
 ordclenove: 1
 description:  IT specialista - helpdesk
-#img: people/jan-tempel.jpg # zakomentuj radek dokud není fotka
+img: people/jan-tempel.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.tempel@pirati.cz
 profiles:

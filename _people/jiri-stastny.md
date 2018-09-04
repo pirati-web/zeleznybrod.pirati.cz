@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 ordclenove: 2
 description:  student TUL - krizové řízení
-#img: people/jiri-stastny.jpg # zakomentuj radek dokud není fotka
+img: people/jiri-stastny.jpg # zakomentuj radek dokud není fotka
 mail:
   - jiri.stastny@pirati.cz
 profiles:

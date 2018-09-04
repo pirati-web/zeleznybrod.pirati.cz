@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 5  
 description:  prodejce zájezdů
-#img: people/katerina-loumova.jpg # zakomentuj radek dokud není fotka
+img: people/katerina-loumova.jpg # zakomentuj radek dokud není fotka
 mail:
   - katerina.loumova@pirati.cz
 profiles:

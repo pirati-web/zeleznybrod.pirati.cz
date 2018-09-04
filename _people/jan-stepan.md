@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 1
 description:  vedoucí servisu
-#img: people/jan-stepan.jpg # zakomentuj radek dokud není fotka
+img: people/jan-stepan.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.stepan@pirati.cz
 profiles:
