@@ -10,9 +10,6 @@ description:  student gymnázia
 img: people/cyril-vacek.jpg # zakomentuj radek dokud není fotka
 mail:
 profiles:
-  #facebook: https://www.facebook.com/jan.tempel  # pokud nema, staci smazat tuto radku
-  #googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
 Cyril Vacek, 19 let, student gymnázia, místopředseda Mladých demokratů.
