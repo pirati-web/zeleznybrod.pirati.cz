@@ -9,7 +9,6 @@ ordneclenove: 2
 description:  student gymnázia
 img: people/cyril-vacek.jpg # zakomentuj radek dokud není fotka
 mail:
-  - cyril.vacek@pirati.cz
 profiles:
   #facebook: https://www.facebook.com/jan.tempel  # pokud nema, staci smazat tuto radku
   #googleplus: https://plus.google.com/+uzivatel.na.googleplus
