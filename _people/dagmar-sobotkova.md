@@ -9,11 +9,7 @@ ordneclenove: 3
 description:  studentka politologie
 img: people/dagmar-sobotkova.jpg # zakomentuj radek dokud není fotka
 mail:
-  - dagmar.sobotkova@pirati.cz
 profiles:
-  #facebook: https://www.facebook.com/jan.tempel  # pokud nema, staci smazat tuto radku
-  #googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
 Dagmar Sobotková, 20 let, studentka politologie
