@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 9  
 description:  pracovnice přepážky a zástupkyně vedoucí na poště
-img: people/katerina-rezlerova.jpg # zakomentuj radek dokud není fotka
+img: #people/katerina-rezlerova.jpg # zakomentuj radek dokud není fotka
 mail:
 profiles:
 ---
