@@ -72,6 +72,6 @@ tail: # zbytek kandidatky
 
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-note: # poznámka pod kanidátku
+note: # poznámka pod kandidátku
     #Zbytek kandidátky zveřejníme, jakmile bude.
 ---
