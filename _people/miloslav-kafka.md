@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 11 
 description:  student strojírenství
-img: people/miloslav.kafka.jpg # zakomentuj radek dokud není fotka
+img: people/miloslav-kafka.jpg # zakomentuj radek dokud není fotka
 mail:
 profiles:
 ---
