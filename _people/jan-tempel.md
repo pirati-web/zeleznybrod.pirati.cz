@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - kontaktni_osoba
 ordclenove: 1
-description:  IT specialista - helpdesk
+description:  IT specialista
 img: people/jan-tempel.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.tempel@pirati.cz
