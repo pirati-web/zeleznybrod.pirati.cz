@@ -39,36 +39,37 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: podnikatel ve stavebnictví
     party: nezávislý / bez politické příslušnosti
     #description: místopředseda MS Jablonec
-    
-tail: # zbytek kandidatky
-  - name: Filip Bezstarosta
+  - uid: filip.bezstarosta
     age: 24
     profession: Konzultant klientského vývoje
     party: bez politické příslušnosti
-  - name: Ing. Zdeněk Hloušek
+  - uid: zdenek.hlousek
     age: 29
     profession: Finanční kontrolor zahraničního vývoje
     party: bez politické příslušnosti
-  - name: Kateřina Rezlerová
+  - uid: katerina.rezlerova
     age: 22
     profession: zástupkyně vedoucí na poště	Železný Brod
     party:	bez politické příslušnosti
-  - name: Vojtěch Žilík
+  - uid: vojtech.zilik
     age: 22
     profession: Hasič, student oboru plánování a řízení krizových situací
     party: bez politické příslušnosti
-  - name: Miloslav Kafka
+  - uid: miloslav.kafka
     age: 18
     profession: Student strojírenství
     party: bez politické příslušnosti
-  - name: Václav Vondra
+  - uid: vaclav.vondra
     age: 18
     profession: Student gymnázia
     party: bez politické příslušnosti
-  - name: Samuel Machat
+  - uid: samuel.machat
     age: 22
     profession: Student IT
     party: Piráti
+    
+tail: # zbytek kandidatky
+  
 
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
