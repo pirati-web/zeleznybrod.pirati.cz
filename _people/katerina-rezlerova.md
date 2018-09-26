@@ -1,7 +1,7 @@
 ---
 uid: katerina.rezlerova
-name:     Kateřina Relerová   	# běžně používáné jméno
-fullname: Kateřina Relerová   	# jméno s tituly etc.
+name:     Kateřina Rezlerová   	# běžně používáné jméno
+fullname: Kateřina Rezlerová   	# jméno s tituly etc.
 category:
   - kandidat-obec
   - neclenove
