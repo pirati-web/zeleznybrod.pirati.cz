@@ -30,4 +30,4 @@ Podpoříme spolupráci škol sdílením materiálních i lidských zdrojů, spo
 
 ### Je pro nás důležité vybudování důvěry vedoucí k perfektně fungující spolupráci se zřizovatelem.
 
-Zřizovatel má mít důvěru ve vedení škol. Aktivně naslouchá a reflektuje jejich potřeby. V kontextu k výše uvedeným charakteristikám rozvoje hradeckého školství je žádoucí, aby školy byly ve svém směřování a profilaci autonomní.
+Zřizovatel má mít důvěru ve vedení škol. Aktivně naslouchá a reflektuje jejich potřeby. V kontextu k výše uvedeným charakteristikám rozvoje železnobrodského školství je žádoucí, aby školy byly ve svém směřování a profilaci autonomní.
