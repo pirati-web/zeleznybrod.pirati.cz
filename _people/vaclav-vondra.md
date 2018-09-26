@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 12  
 description:  student gymnázia
-img: people/vaclav.vondra.jpg # zakomentuj radek dokud není fotka
+img: people/vaclav-vondra.jpg # zakomentuj radek dokud není fotka
 mail:
 profiles:
 ---
