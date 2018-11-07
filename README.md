@@ -1,7 +1,7 @@
 # zeleznybrod.pirati.cz
 
 Web železnobrodských pirátů ... 
-Spravuje Marek Förster, marek.forster@pirati.cz
+Spravují Marek Förster (marek.forster@pirati.cz) a Samuel Machat (samuel.machat@pirati.cz)
 
 ---
 vše ostatní převzato z example.pirati.cz
