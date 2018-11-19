@@ -17,7 +17,7 @@ main:
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: Náš tým
     match: lide
   - link: /komunalni-volby/
     name: Komunální volby
