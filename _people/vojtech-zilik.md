@@ -7,7 +7,7 @@ category:
   - neclenove
 ordneclenove: 10
 description:  hasič, student oboru plánování a řízení krizových situací
-img: #people/vojtech-zilik.jpg # zakomentuj radek dokud není fotka
+img: people/vojtech-zilik.jpg # zakomentuj radek dokud není fotka
 mail:
 profiles:
 ---
