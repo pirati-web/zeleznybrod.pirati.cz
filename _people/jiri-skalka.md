@@ -6,7 +6,7 @@ category:
   - neclenove
 ordneclenove: 14  
 description:  webdesigner
-img: #people/jiri-skalka.jpg # zakomentuj radek dokud není fotka
+img: people/jiri-skalka.jpg # zakomentuj radek dokud není fotka
 mail:
 profiles:
 ---
