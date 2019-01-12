@@ -13,4 +13,4 @@ profiles:
 
 Jaromí Mach je příznivcem Pirátské strany v Libereckém kraji.
 
-Studuje na elektrikáře na ISŠ v Semilech. Je aktivním členem organizačního týmu Pirátů v Železném Brodě a praktikantem v SVČ Mozaika. Věnuje se doučování matematiky, fyziky a chemie.
+Studuje na elektrikáře na ISŠ v Semilech. Je aktivním členem organizačního týmu Pirátů v Železném Brodě a pedagogem v SVČ Mozaika. Věnuje se doučování matematiky, fyziky a chemie.
